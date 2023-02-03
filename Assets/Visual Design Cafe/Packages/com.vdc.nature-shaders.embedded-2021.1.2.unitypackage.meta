@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 76ee0be040765004d85bed4318af39e7
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 231167
+  packageName: "Nature Renderer\u30FBSubscription"
+  packageVersion: 2021.1.5
+  assetPath: Assets/Visual Design Cafe/Packages/com.vdc.nature-shaders.embedded-2021.1.2.unitypackage
+  uploadId: 531561
