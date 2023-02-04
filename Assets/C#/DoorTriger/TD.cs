@@ -9,6 +9,6 @@ public class TD : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        SceneManager.LoadScene(NumberLocation);
+        if(other.tag == "Player") { SceneManager.LoadScene(NumberLocation); }
     }
 }
